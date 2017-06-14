@@ -76,5 +76,6 @@ lc = jogador.getLugar();
             Mensagem:<input type="text" name="mensagem" value="" /><br/>
             <input type="submit" value="Enviar" />
         </form>
+       
 </body>
 </html>
